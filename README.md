@@ -9,7 +9,7 @@
 1. [Examen Transversal](et/README.md)
 
 
-## Guía para desarroladores
+## Guía para desarrolladores
 ### Tipo de datos 
 
 * Cadenas de caracteres
