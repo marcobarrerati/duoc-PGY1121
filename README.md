@@ -25,7 +25,7 @@
 ````
 Tuplas, listas y diccionarios son estructuras de datos
 
-La estructura de datos es una forma específica de organizar los datos en la comupatoda para que puedan ser utilizados de manera eficiente
+La estructura de datos es una forma específica de organizar los datos en la computadora para que puedan ser utilizados de manera eficiente
 
 Las tuplas son secuencias de objetos y tiene la particularidad de que son inmutables
 
