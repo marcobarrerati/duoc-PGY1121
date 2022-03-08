@@ -1,6 +1,5 @@
-# DUOC UC - INGENIERÍA EN INFORMÁTICA
-
-## Programación de Algoritmos PGY1121
+PGY1121
+# Programación de Algoritmos
 1. [curso](curso/README.md)
 1. [Evaluación 1](eval1/README.md)
 1. [Evaluación 2](eval2/README.md)
@@ -9,8 +8,7 @@
 1. [Examen Transversal](et/README.md)
 
 
-## Guía para desarrolladores
-### Tipo de datos 
+## Tipo de datos 
 
 * Cadenas de caracteres
 * Fechas
